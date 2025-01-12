@@ -1,1 +1,3 @@
 ¿Que es Bitcoin?
+
+Bitcoin es una criptomoneda descentralizada que surgió en 2009 como una forma innovadora de dinero digital. Creada por una persona o grupo bajo el seudónimo de Satoshi Nakamoto, Bitcoin utiliza tecnología blockchain para registrar todas las transacciones de manera transparente y segura. A diferencia del dinero tradicional, no está respaldada por ningún gobierno o banco central, lo que la hace única y revolucionaria en el ámbito financiero.
