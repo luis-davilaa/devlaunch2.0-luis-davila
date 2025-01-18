@@ -1,0 +1,19 @@
+Proporcionar una explicación detallada en un archivo .txt de las acciones que realizarías al cocinar un huevo.
+
+
+SOLUCIÓN
+
+Ir a la cocina.
+Buscar el huevo que vamos a cocinar.
+Buscar los condimentos que vamos a utilizar en el huevo.
+Buscar el aceite.
+Buscar la sartén que vamos a utilizar para cocinar el huevo.
+Buscar la espátula que vamos a utilizar. 
+Encender la cocina y calentar el disco donde cocinaremos el huevo.
+Poner la sartén en el disco.
+Esperamos que la sartén se caliente.
+Cuando este caliente ponemos un poco de aceite.
+Rompemos el huevo y lo echamos en la sartén.
+Batimos el huevo hasta tener la textura deseada.
+Condimentamos al gusto.
+Emplatamos para comer. 
