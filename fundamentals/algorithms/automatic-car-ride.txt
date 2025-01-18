@@ -1,0 +1,21 @@
+Proporciona una explicación detallada en un archivo .txt de las acciones que realizarías al prepararte para conducir un carro automático. 
+
+Este ejercicio está diseñado para ayudarte a entender los conceptos básicos de los algoritmos al darte un ejemplo del mundo real sobre como llevar tu carro a dar un paseo.
+
+
+SOLUCIÓN
+
+Buscar las llaves del carro.
+Una vez encontradas las llaves nos dirigimos al carro.
+- Si el carro está cerrado, procedemos a abrirlo y entramos al carro.
+- Si el carro está abierto, entramos al carro.
+Cerramos la puerta.
+Una vez en el carro, lo encendemos.
+Abrimos la puerta del garaje.
+Nos fijamos si podemos salir.
+- Si vienen carros o peatones, esperamos a que pasen para salir. 
+- Si no viene nada, podemos proceder a salir. 
+Quitamos el freno de mano.
+Ponemos la marcha en D.
+Salimos a pasear.
+
